@@ -441,7 +441,9 @@ window.TEXAS_TRACE_DATA = {
     },
     "austin-airport-arrival": {
       basePath: "assets/images/places/austin-airport",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" }
+      ]
     },
     "austin-lodging": {
       basePath: "assets/images/places/austin-lodging",
@@ -483,53 +485,182 @@ window.TEXAS_TRACE_DATA = {
     },
     "mueller-lake-park": {
       basePath: "assets/images/places/mueller-lake-park",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" }
+      ]
     },
     "stiles-switch-bbq": {
       basePath: "assets/images/places/stiles-switch-bbq",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" }
+      ]
     },
     "space-center-houston": {
       basePath: "assets/images/places/space-center-houston",
       images: [
-        { file: "01.jpg", caption: "Space Center Houston" }
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" },
+        { file: "07.jpeg", caption: "" },
+        { file: "08.jpeg", caption: "" },
+        { file: "09.jpeg", caption: "" },
+        { file: "10.jpeg", caption: "" },
+        { file: "11.jpeg", caption: "" },
+        { file: "12.jpeg", caption: "" },
+        { file: "13.jpeg", caption: "" },
+        { file: "14.jpeg", caption: "" },
+        { file: "15.jpeg", caption: "" },
+        { file: "16.jpeg", caption: "" },
+        { file: "17.jpeg", caption: "" },
+        { file: "18.jpeg", caption: "" },
+        { file: "19.jpeg", caption: "" },
+        { file: "20.jpeg", caption: "" },
+        { file: "21.jpeg", caption: "" },
+        { file: "22.jpeg", caption: "" },
+        { file: "23.jpeg", caption: "" },
+        { file: "24.jpeg", caption: "" },
+        { file: "25.jpeg", caption: "" }
       ]
     },
     "houston-museum-natural-science": {
       basePath: "assets/images/places/houston-museum-natural-science",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" },
+        { file: "07.jpeg", caption: "" },
+        { file: "08.jpeg", caption: "" },
+        { file: "09.jpeg", caption: "" },
+        { file: "10.jpeg", caption: "" },
+        { file: "11.jpeg", caption: "" }
+      ]
     },
     "buc-ees-waller": {
       basePath: "assets/images/places/buc-ees-waller",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" }
+      ]
     },
     "ut-austin-coop": {
       basePath: "assets/images/places/ut-austin-coop",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" },
+        { file: "07.jpeg", caption: "" },
+        { file: "08.jpeg", caption: "" },
+        { file: "09.jpeg", caption: "" },
+        { file: "10.jpeg", caption: "" },
+        { file: "11.jpeg", caption: "" }
+      ]
     },
     "cota": {
       basePath: "assets/images/places/cota",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" },
+        { file: "07.jpeg", caption: "" }
+      ]
     },
     "texas-capitol": {
       basePath: "assets/images/places/texas-capitol",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" },
+        { file: "07.jpeg", caption: "" },
+        { file: "08.jpeg", caption: "" },
+        { file: "09.jpeg", caption: "" },
+        { file: "10.jpeg", caption: "" },
+        { file: "11.jpeg", caption: "" },
+        { file: "12.jpeg", caption: "" },
+        { file: "13.jpeg", caption: "" },
+        { file: "14.jpeg", caption: "" },
+        { file: "15.jpeg", caption: "" },
+        { file: "16.jpeg", caption: "" },
+        { file: "17.jpeg", caption: "" },
+        { file: "18.jpeg", caption: "" },
+        { file: "19.jpeg", caption: "" }
+      ]
     },
     "yard-house": {
       basePath: "assets/images/places/yard-house",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" }
+      ]
     },
     "total-wine-mueller": {
       basePath: "assets/images/places/total-wine-mueller",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" },
+        { file: "07.jpeg", caption: "" },
+        { file: "08.jpeg", caption: "" },
+        { file: "09.jpeg", caption: "" }
+      ]
     },
     "austin-airport-departure": {
       basePath: "assets/images/places/austin-airport",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" }
+      ]
     },
     "minneapolis-airport": {
       basePath: "assets/images/places/minneapolis-airport",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" }
+      ]
     },
     "incheon-airport-return": {
       basePath: "assets/images/places/incheon-airport",
