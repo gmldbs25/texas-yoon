@@ -254,7 +254,9 @@
       countElement: document.getElementById("photo-count-label"),
       lightboxElement: document.getElementById("photo-lightbox"),
       lightboxImage: document.getElementById("lightbox-image"),
-      lightboxCaption: document.getElementById("lightbox-caption")
+      lightboxCaption: document.getElementById("lightbox-caption"),
+      lightboxPrevButton: document.getElementById("lightbox-prev"),
+      lightboxNextButton: document.getElementById("lightbox-next")
     });
 
     bindControls();

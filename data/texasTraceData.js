@@ -214,20 +214,20 @@ window.TEXAS_TRACE_DATA = {
       stepId: 1,
       locationId: "incheon-airport",
       title: "인천공항",
-      subtitle: "텍사스 여정의 시작",
+      subtitle: "출발!",
       role: "departure",
       storyType: "flight-start",
-      summary: "한국에서 텍사스로 향하는 긴 여정의 출발점.",
+      summary: "🛫 08:45 비행기로 출국",
       mediaGroupId: "incheon-airport-departure"
     },
     {
       stepId: 2,
       locationId: "atlanta-airport",
       title: "애틀란타 공항",
-      subtitle: "미국 입국과 환승",
+      subtitle: "미국 입국 및 환승",
       role: "flight-transfer",
       storyType: "flight-transfer",
-      summary: "미국 본토에 도착해 오스틴으로 갈아타는 환승 지점.",
+      summary: "처음 맛 본 미국 쉨쉨 버거",
       mediaGroupId: "atlanta-airport"
     },
     {
@@ -237,7 +237,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Austin 도착",
       role: "arrival",
       storyType: "arrival",
-      summary: "텍사스 오스틴에 도착한 첫 순간.",
+      summary: "🚙 짐 찾고 렌트카 수령",
       mediaGroupId: "austin-airport-arrival"
     },
     {
@@ -247,17 +247,17 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Austin Local Hub",
       role: "lodging-hub",
       storyType: "basecamp",
-      summary: "오스틴에서의 이동 중심이 되는 숙소.",
+      summary: "🌅 깔끔한 시설의 일몰 맛집 숙소",
       mediaGroupId: "austin-lodging"
     },
     {
       stepId: 5,
       locationId: "bjs-restaurant",
       title: "BJ's Restaurant",
-      subtitle: "첫 로컬 식사 경험",
+      subtitle: "첫 미국미국한 식당",
       role: "meal",
       storyType: "local-meal",
-      summary: "오스틴에서 들른 레스토랑.",
+      summary: "햄버거, 프라이 엄청 많이",
       mediaGroupId: "bjs-restaurant"
     },
     {
@@ -267,7 +267,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Austin Shopping Area",
       role: "shopping",
       storyType: "local-shopping",
-      summary: "오스틴 북쪽의 대표 쇼핑/라이프스타일 공간.",
+      summary: "오스틴 대표 쇼핑 아울렛",
       mediaGroupId: "the-domain"
     },
     {
@@ -277,7 +277,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Austin의 여유로운 공원",
       role: "nature",
       storyType: "local-nature",
-      summary: "호수와 산책로가 있는 오스틴의 여유로운 장소.",
+      summary: "우연히 들른 너무 평화로웠던 공원",
       mediaGroupId: "mueller-lake-park"
     },
     {
@@ -287,7 +287,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Texas BBQ",
       role: "meal",
       storyType: "bbq",
-      summary: "텍사스 바비큐를 경험한 장소.",
+      summary: "처음 먹어 본 텍사스 BBQ, 충격적",
       mediaGroupId: "stiles-switch-bbq"
     },
     {
@@ -297,7 +297,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "NASA와 우주 경험",
       role: "space",
       storyType: "space-center",
-      summary: "이번 텍사스 여정에서 가장 강하게 기억에 남은 장소.",
+      summary: "우주 좋아하면 너무너무 가봐야 할 곳",
       mediaGroupId: "space-center-houston"
     },
     {
@@ -307,7 +307,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "자연사 박물관",
       role: "museum",
       storyType: "museum",
-      summary: "휴스턴에서 방문한 대형 자연사 박물관.",
+      summary: "이공계생에게 딱 맞는 공간",
       mediaGroupId: "houston-museum-natural-science"
     },
     {
@@ -317,7 +317,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Houston에서 Austin으로 돌아오는 길",
       role: "return-stop",
       storyType: "road-trip-stop",
-      summary: "장거리 운전 중 들른 텍사스식 대형 휴게소.",
+      summary: "미국식 휴게소 체험, 모든게 크다",
       mediaGroupId: "buc-ees-waller"
     },
     {
@@ -327,7 +327,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "University of Texas Austin",
       role: "shopping",
       storyType: "campus",
-      summary: "UT Austin 캠퍼스와 굿즈를 경험한 장소.",
+      summary: "더워서 캠퍼는 정작 많이 못 본..",
       mediaGroupId: "ut-austin-coop"
     },
     {
@@ -337,7 +337,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "COTA",
       role: "race",
       storyType: "race",
-      summary: "F1 서킷과 고카팅 경험이 연결되는 장소.",
+      summary: "🏎️ F1 서킷, Ferrari Driving Day, 고 카트!",
       mediaGroupId: "cota"
     },
     {
@@ -347,7 +347,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "텍사스 주 의사당",
       role: "landmark",
       storyType: "capital",
-      summary: "텍사스의 상징적인 주 의사당.",
+      summary: "너무 예쁜 건물 외부와 내부",
       mediaGroupId: "texas-capitol"
     },
     {
@@ -357,7 +357,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Domain Northside",
       role: "meal",
       storyType: "local-meal",
-      summary: "오스틴에서 들른 Domain 인근 레스토랑.",
+      summary: "마지막 오스틴 외식",
       mediaGroupId: "yard-house"
     },
     {
@@ -367,7 +367,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Mueller Shopping Stop",
       role: "shopping",
       storyType: "local-shopping",
-      summary: "오스틴에서 들른 쇼핑 장소.",
+      summary: "부모님 선물 위스키",
       mediaGroupId: "total-wine-mueller"
     },
     {
@@ -377,7 +377,7 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "Austin 출국",
       role: "departure",
       storyType: "departure",
-      summary: "텍사스 여정을 마치고 돌아가는 출발점.",
+      summary: "새벽 2시에 출발, 바뀐 항공일정 😨",
       mediaGroupId: "austin-airport-departure"
     },
     {
@@ -387,17 +387,17 @@ window.TEXAS_TRACE_DATA = {
       subtitle: "귀국편 환승",
       role: "flight-transfer",
       storyType: "flight-transfer",
-      summary: "인천행 비행기로 갈아타는 귀국 환승 지점.",
+      summary: "시애틀 대신 미네소타 공항 경험",
       mediaGroupId: "minneapolis-airport"
     },
     {
       stepId: 19,
       locationId: "incheon-airport",
       title: "인천공항",
-      subtitle: "여정의 끝",
+      subtitle: "끝!",
       role: "arrival-home",
       storyType: "return-home",
-      summary: "텍사스 여정을 마치고 한국으로 돌아온 마지막 지점.",
+      summary: "17시 한국 도착",
       mediaGroupId: "incheon-airport-return"
     }
   ],
@@ -445,15 +445,41 @@ window.TEXAS_TRACE_DATA = {
     },
     "austin-lodging": {
       basePath: "assets/images/places/austin-lodging",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" },
+        { file: "04.jpeg", caption: "" },
+        { file: "05.jpeg", caption: "" },
+        { file: "06.jpeg", caption: "" },
+        { file: "07.jpeg", caption: "" },
+        { file: "08.jpeg", caption: "" },
+        { file: "09.jpeg", caption: "" },
+        { file: "10.jpeg", caption: "" },
+        { file: "11.jpeg", caption: "" },
+        { file: "12.jpeg", caption: "" },
+        { file: "13.jpeg", caption: "" },
+        { file: "14.jpeg", caption: "" },
+        { file: "15.jpeg", caption: "" }
+      ]
     },
     "bjs-restaurant": {
       basePath: "assets/images/places/bjs-restaurant",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" },
+        { file: "03.jpeg", caption: "" }
+      ]
     },
     "the-domain": {
       basePath: "assets/images/places/the-domain",
-      images: []
+      images: [
+        { file: "00.jpeg", caption: "" },
+        { file: "01.jpeg", caption: "" },
+        { file: "02.jpeg", caption: "" }
+      ]
     },
     "mueller-lake-park": {
       basePath: "assets/images/places/mueller-lake-park",

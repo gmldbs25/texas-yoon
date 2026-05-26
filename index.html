@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://server.arcgisonline.com">
     <link rel="preconnect" href="https://tile.openstreetmap.org">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIINfQZf5xQpY8Z7rJpC6fJL7NfTGszbkvM=" crossorigin="">
-    <link rel="stylesheet" href="assets/css/styles.css?v=20260526-counter-fit">
+    <link rel="stylesheet" href="assets/css/styles.css?v=20260526-max-lightbox">
   </head>
   <body>
     <main class="journey-player" aria-label="Texas Trace Journey Player">
@@ -76,7 +76,9 @@
       <div class="lightbox-backdrop" data-lightbox-close></div>
       <figure class="lightbox-dialog" role="dialog" aria-modal="true" aria-label="Fullscreen photo">
         <button class="lightbox-close" type="button" data-lightbox-close aria-label="Close photo">×</button>
+        <button id="lightbox-prev" class="lightbox-nav prev" type="button" data-lightbox-prev aria-label="Previous photo">‹</button>
         <img id="lightbox-image" alt="">
+        <button id="lightbox-next" class="lightbox-nav next" type="button" data-lightbox-next aria-label="Next photo">›</button>
         <figcaption id="lightbox-caption"></figcaption>
       </figure>
     </div>
@@ -86,7 +88,7 @@
     <script src="assets/js/dataAdapter.js?v=20260526-progress-tooltip"></script>
     <script src="assets/js/stepController.js?v=20260526-progress-tooltip"></script>
     <script src="assets/js/mapController.js?v=20260526-progress-tooltip"></script>
-    <script src="assets/js/photoController.js?v=20260526-progress-tooltip"></script>
-    <script src="assets/js/main.js?v=20260526-progress-tooltip"></script>
+    <script src="assets/js/photoController.js?v=20260526-lightbox-gallery"></script>
+    <script src="assets/js/main.js?v=20260526-lightbox-gallery"></script>
   </body>
 </html>
